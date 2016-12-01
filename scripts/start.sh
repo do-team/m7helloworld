@@ -1,1 +1,2 @@
-service tomcat8 start
+#!/usr/bin/env bash
+service jetty start

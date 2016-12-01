@@ -1,1 +1,2 @@
-service tomcat8 stop
+#!/usr/bin/env bash
+service jetty stop
