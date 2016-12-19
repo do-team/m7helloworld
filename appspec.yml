@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
    - source: /
-     destination: /opt/jetty/jetty-distribution-9.3.13.v20161014/webapps
+     destination: /opt/jetty/webapps
 hooks:
    ApplicationStop:
      - location: scripts/stop.sh
