@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-sudo service jetty start
+# sudo service jetty start

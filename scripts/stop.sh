@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-sudo service jetty stop
+# sudo service jetty stop
